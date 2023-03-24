@@ -17,6 +17,13 @@ header img{
   width: 80px;
   height: 80px;
 }
+p{
+  margin-bottom: 0rem;
+}
+.header-top-left{
+  padding-top: 15px;
+}
+
 .nav-bar-top .nav-bar-top-middle .nav-menu-top{
   width: 800px;
   height: 40px;
@@ -49,5 +56,22 @@ header img{
   list-style-type: none;
   margin-top: 20px;
   
-  
 }  
+.btn-piano-blaze{
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  background-color: #165BBA;
+  color: white;
+  border: none;
+  margin-left:10px;
+}
+.box-piu{
+  width: 30px;
+  height: 30px;
+  border: 1px solid white;
+  text-align: center;
+  font-size: 1.3rem;
+  margin-left: 20px;
+  
+}
